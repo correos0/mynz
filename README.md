@@ -1,1 +1,1 @@
-# mynz
+# MyWebsite
